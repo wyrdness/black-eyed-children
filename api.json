@@ -1,10 +1,8 @@
 {
-  "category": "ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/black-eyed-children",
     "maintainers": [
       {
@@ -18,847 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "black-eyed-children",
     "name": "Black-Eyed Children",
-    "aliases": [
-      {
-        "name": "BEK",
-        "meaning": "Acronym for Black-Eyed Kids"
-      },
-      {
-        "name": "Black-Eyed Kids",
-        "meaning": "Common variant name"
-      },
-      {
-        "name": "BEC",
-        "meaning": "Black-Eyed Children (formal)"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Modern Phenomenon",
+    "subcategory": "| Description | Significance |",
     "tags": [
-      "modern-folklore",
-      "entity",
-      "children",
-      "eyes",
-      "urban-legend",
-      "internet-age",
-      "global",
-      "psychological"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "Child or teen-appearing entities with completely black eyes (no visible whites or pupils) who request entry to homes or vehicles. Encounters characterized by overwhelming dread and feeling of danger.",
-      "full": "Black-Eyed Children (BEK) are a modern paranormal phenomenon describing encounters with children or teenagers possessing completely black eyes—no visible whites, irises, or pupils. These entities typically appear at doorsteps or near parked vehicles, politely but insistently requesting entry or assistance. Witnesses consistently report feeling overwhelming dread, a primal sense of danger, and the conviction that allowing entry would be disastrous. First widely documented in journalist Brian Bethel's 1996 account from Abilene, Texas, reports have proliferated via internet forums and creepypasta communities. The phenomenon represents a unique intersection of modern urban legend, potential paranormal entity reports, and internet folklore evolution."
+      "summary": "Black-Eyed Children (BEK) are a modern paranormal phenomenon describing encounters with children or teenagers possessing completely black eyes—no visible whites, irises, or pupils.",
+      "full": "Black-Eyed Children (BEK) are a modern paranormal phenomenon describing encounters with children or teenagers possessing completely black eyes—no visible whites, irises, or pupils. These entities typically appear at doorsteps or near parked vehicles, politely but insistently requesting entry or assistance. Witnesses consistently report feeling overwhelming dread, a primal sense of danger, and the conviction that allowing entry would be disastrous. The phenomenon first gained widespread attention through journalist Brian Bethel's detailed 1996 account from Abilene, Texas, and has proliferated through internet forums, creepypasta communities, and paranormal media. BEK represent a unique intersection of potential paranormal encounters, modern urban legend, and internet-age folklore evolution. Whether genuine entities, psychological phenomena, or collaborative fiction, BEK have become a significant element of contemporary paranormal culture."
     },
     "etymology": {
-      "origin": "The term 'Black-Eyed Children' or 'Black-Eyed Kids' emerged from internet forums and paranormal communities following Brian Bethel's 1996 account.",
-      "meaning": "Descriptive name referring to the entities' completely black eyes with no visible whites or pupils",
-      "first_use": "1996-1998"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Humanoid Apparition",
-      "subtype": "Modern Phenomenon",
-      "variant": "Internet-Age Entity"
+      "type": "| Description | Significance |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "shadow-people",
-        "name": "Shadow People",
-        "relationship": "similar",
-        "description": "Dark humanoid entities, shared feeling of dread"
-      },
-      {
-        "id": "demons",
-        "name": "Demons",
-        "relationship": "theory",
-        "description": "Some researchers classify BEK as demonic entities requiring invitation"
-      },
-      {
-        "id": "aliens",
-        "name": "Alien Hybrids",
-        "relationship": "theory",
-        "description": "Black eyes suggest possible alien-human hybrid theory"
-      },
-      {
-        "id": "vampires",
-        "name": "Vampires",
-        "relationship": "parallel",
-        "description": "Shared need for invitation to enter, threshold mythology"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "age_appearance": {
-        "min": 6,
-        "max": 16,
-        "unit": "years",
-        "confidence": "high"
-      },
-      "features": [
-        {
-          "feature": "Eyes",
-          "description": "Completely black—no visible whites, irises, or pupils. Described as shark-like or doll-like.",
-          "frequency": "always"
-        },
-        {
-          "feature": "Skin",
-          "description": "Unusually pale or pallid complexion, sometimes described as waxy",
-          "frequency": "very common"
-        },
-        {
-          "feature": "Clothing",
-          "description": "Often outdated or anachronistic, clean but oddly formal or old-fashioned",
-          "frequency": "common"
-        },
-        {
-          "feature": "Gaze avoidance",
-          "description": "Initially avoid direct eye contact, keeping eyes downcast until permission requested",
-          "frequency": "very common"
-        },
-        {
-          "feature": "Demeanor",
-          "description": "Unnaturally calm, polite but with subtle menace. Speech patterns described as adult-like or scripted",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Appear as normal human children aged 6-16, but with completely black eyes. No unusual height, build, or physical deformities typically reported beyond the eyes."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Inducing dread",
-        "description": "Witnesses report overwhelming sense of fear, danger, and wrongness in BEK presence",
-        "frequency": "always",
-        "evidence_level": "consistently reported"
-      },
-      {
-        "ability": "Persuasion",
-        "description": "Insistent, repetitive requests that become increasingly forceful or threatening",
-        "frequency": "common",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Threshold limitation",
-        "description": "Appear unable or unwilling to enter without explicit permission or invitation",
-        "frequency": "very common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Technological interference",
-        "description": "Some reports include phone/electronic malfunctions during encounters",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Sudden appearance/disappearance",
-        "description": "Appear suddenly with no approach seen; disappear when refused entry",
-        "frequency": "common",
-        "evidence_level": "reported"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "primarily nocturnal",
-      "disposition": "menacing",
-      "approach_pattern": "polite_insistent",
-      "common_scenarios": [
-        "Doorstep encounters requesting entry to home",
-        "Approaching parked vehicles requesting ride or help",
-        "Found standing outside windows at night",
-        "Requesting to use phone or bathroom"
-      ],
-      "communication_style": "Polite but oddly formal speech. Repetitive requests. Increasingly insistent or threatening undertone.",
-      "patterns": [
-        "Never force entry—always request permission",
-        "Often travel in pairs",
-        "Avoid revealing eyes until permission stage",
-        "Become agitated or angry when refused",
-        "Provide vague or evasive answers to questions",
-        "Create strong feeling that entry would be catastrophic"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Global phenomenon with highest concentration of reports from United States and United Kingdom. Internet proliferation makes geographic clustering difficult to assess.",
-      "continents": ["North America", "Europe", "Australia", "Asia"],
-      "countries": ["United States", "United Kingdom", "Canada", "Australia"],
-      "regions": [
-        "United States (widespread)",
-        "United Kingdom (England)",
-        "Texas, USA",
-        "Pacific Northwest, USA",
-        "Midwestern USA"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Abilene, Texas",
-        "location": {
-          "description": "Site of Brian Bethel original 1996 encounter",
-          "country": "United States",
-          "region": "Texas",
-          "coordinates": {
-            "latitude": 32.4487,
-            "longitude": -99.7331
-          }
-        },
-        "sighting_count": 15,
-        "peak_period": "1996-2000",
-        "notes": "Original documented encounter location"
-      },
-      {
-        "name": "Cannock Chase",
-        "location": {
-          "description": "Forest area in Staffordshire",
-          "country": "United Kingdom",
-          "region": "England",
-          "coordinates": {
-            "latitude": 52.7500,
-            "longitude": -1.9833
-          }
-        },
-        "sighting_count": 30,
-        "peak_period": "2014-2016",
-        "notes": "Lee Brickley documented multiple encounters"
-      },
-      {
-        "name": "Portland, Oregon",
-        "location": {
-          "description": "Portland metropolitan area",
-          "country": "United States",
-          "region": "Oregon",
-          "coordinates": {
-            "latitude": 45.5152,
-            "longitude": -122.6784
-          }
-        },
-        "sighting_count": 20,
-        "peak_period": "2000-2010",
-        "notes": "Multiple urban encounter reports"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1996",
-        "circa": false,
-        "source": "Brian Bethel's account from Abilene, Texas"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1996-2000",
-          "description": "Initial wave following Bethel account on internet forums"
-        },
-        {
-          "period": "2010-2016",
-          "description": "Major resurgence via creepypasta and YouTube communities"
-        },
-        {
-          "period": "2014-2015",
-          "description": "UK cluster following Cannock Chase reports"
-        }
-      ],
-      "seasonal_patterns": "No strong seasonal pattern, though some clustering in autumn/winter months"
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Modern internet-age phenomenon with possible connections to older folklore about supernatural beings requiring invitation (vampires, demons) and changeling legends.",
-      "earliest_accounts": "First widely documented account: Brian Bethel, 1996, Abilene, Texas. Posted to internet mailing list, later widely circulated.",
-      "folklore_connections": "Parallels with vampire threshold mythology, changeling folklore, and demon invitation requirements. Also connects to 1980s-90s 'satanic panic' and fears of corrupted children."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1996-01",
-        "event": "Brian Bethel encounter",
-        "significance": "Journalist Brian Bethel encounters two BEK outside movie theater in Abilene, Texas",
-        "source": "Bethel's original internet post"
-      },
-      {
-        "date": "1998",
-        "event": "Internet forum proliferation",
-        "significance": "Bethel shares story on internet mailing lists, story spreads through paranormal communities",
-        "source": "Ghost Village forums, Coast to Coast AM"
-      },
-      {
-        "date": "2012-2013",
-        "event": "Creepypasta boom",
-        "description": "BEK stories proliferate on creepypasta forums, Reddit, and YouTube",
-        "significance": "Major cultural spread beyond paranormal community",
-        "source": "Reddit /r/nosleep, Creepypasta Wiki"
-      },
-      {
-        "date": "2014",
-        "event": "UK Cannock Chase cluster",
-        "significance": "Lee Brickley documents multiple BEK encounters in Cannock Chase forest area",
-        "source": "UK media reports, Brickley's investigations"
-      },
-      {
-        "date": "2015",
-        "event": "Mainstream media coverage",
-        "significance": "Vice, Huffington Post, and other outlets cover phenomenon",
-        "source": "Vice article, various news media"
-      },
-      {
-        "date": "2016-present",
-        "event": "Ongoing reports",
-        "significance": "Continued encounters reported globally, sustained internet discussion",
-        "source": "Reddit, paranormal forums, YouTube channels"
-      }
-    ],
-    "modern_era": "BEK represent a quintessential internet-age phenomenon, with reports spreading virally through forums, social media, and creepypasta communities. The phenomenon exemplifies how modern folklore evolves through digital media, blending potential genuine paranormal reports with creative fiction in ways that make separation difficult."
+    "timeline": []
   },
-
-  "encounters": {
+  "sightings": {
     "statistics": {
-      "total_documented": 1500,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 1400,
-      "debunked": 50,
-      "date_range": {
-        "earliest": "1996",
-        "latest": "2026"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "bek-encounter-1996-bethel",
-        "name": "Brian Bethel Original Encounter",
-        "date": {
-          "value": "1996-01",
-          "precision": "approximate"
-        },
-        "location": {
-          "description": "Movie theater parking lot, Abilene, Texas",
-          "country": "United States",
-          "region": "Texas",
-          "locality": "Abilene",
-          "coordinates": {
-            "latitude": 32.4487,
-            "longitude": -99.7331,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Journalist"],
-          "credibility_factors": ["Professional background", "Detailed written account", "Consistent retelling"]
-        },
-        "description": "Journalist Brian Bethel was sitting in his parked car writing a check when two boys (ages 9-12 approximately) approached asking for a ride home. Bethel felt overwhelming dread and unease. One boy insisted repeatedly they needed to come into the car. When Bethel finally looked at their eyes, they were completely black—no whites, no irises, no pupils. Bethel drove away in fear. The boys showed no emotion when refused.",
-        "conditions": {
-          "weather": "Clear evening",
-          "visibility": "Good (parking lot lighting)",
-          "time_of_day": "Evening",
-          "duration": "Several minutes"
-        },
-        "evidence": [
-          "Detailed written account",
-          "Consistent testimony over decades",
-          "Professional journalist credibility"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Credible witness with journalism background",
-            "Extremely detailed original account",
-            "No physical evidence",
-            "Single witness",
-            "Consistent retelling without embellishment"
-          ],
-          "notes": "Foundational case for BEK phenomenon. Bethel's professional background and detailed, consistent account lend credibility, but lack of corroboration or physical evidence limits verification."
-        },
-        "sources": [
-          "Bethel, B. (1998). Original internet post to Ghost Village mailing list",
-          "Bethel interviews on Coast to Coast AM (multiple dates)"
-        ],
-        "featured": true
-      },
-      {
-        "id": "bek-encounter-2014-cannock",
-        "name": "Cannock Chase Forest Encounters",
-        "date": {
-          "value": "2014",
-          "precision": "year"
-        },
-        "location": {
-          "description": "Cannock Chase Forest, Staffordshire",
-          "country": "United Kingdom",
-          "region": "England",
-          "locality": "Staffordshire",
-          "coordinates": {
-            "latitude": 52.7500,
-            "longitude": -1.9833,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 8,
-          "types": ["Hikers", "Local residents"],
-          "credibility_factors": ["Multiple independent witnesses", "Consistent descriptions"]
-        },
-        "description": "Multiple witnesses reported encounters with children having completely black eyes in Cannock Chase forest area. Reports included children appearing suddenly on forest paths, standing outside homes at night, and approaching vehicles. Witnesses consistently reported feeling intense fear and unease. Researcher Lee Brickley documented the cluster of sightings.",
-        "conditions": {
-          "weather": "Various",
-          "visibility": "Various (day and night encounters)",
-          "time_of_day": "Various",
-          "duration": "Brief encounters"
-        },
-        "evidence": [
-          "Multiple witness accounts",
-          "Documented by local researcher",
-          "Media coverage",
-          "Consistent descriptions"
-        ],
-        "credibility": {
-          "rating": "low-medium",
-          "factors": [
-            "Multiple witnesses",
-            "Geographic clustering",
-            "Heavy media coverage may have influenced reports",
-            "No physical evidence",
-            "Some witnesses may have been influenced by existing BEK stories"
-          ],
-          "notes": "Significant cluster of reports in concentrated area. Media attention and pre-existing BEK awareness complicate assessment."
-        },
-        "sources": [
-          "Brickley, L. (2015). UFOs, Werewolves & The Pig-Man: Exposing England's Strangest Location - Cannock Chase",
-          "UK media reports (Daily Mail, Express, 2014-2015)"
-        ],
-        "featured": true
-      },
-      {
-        "id": "bek-encounter-2013-vermont",
-        "name": "Vermont Doorstep Encounter",
-        "date": {
-          "value": "2013-10",
-          "precision": "month"
-        },
-        "location": {
-          "description": "Residential home, rural Vermont",
-          "country": "United States",
-          "region": "Vermont",
-          "coordinates": {
-            "precision": "withheld"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Homeowner"],
-          "credibility_factors": ["Detailed account", "Physical effects reported"]
-        },
-        "description": "Woman home alone at night heard knocking. Opened door to find two children (approximately 10-14 years old) asking to use the phone. She felt immediate, overwhelming dread and fear. Children became increasingly insistent, repeating 'We need to come inside.' When she refused and started to close door, children looked up revealing completely black eyes. She slammed door and heard no further sounds. Children were gone when she looked out window moments later.",
-        "conditions": {
-          "weather": "Clear night",
-          "visibility": "Porch light",
-          "time_of_day": "Late evening (approximately 10 PM)",
-          "duration": "3-5 minutes"
-        },
-        "evidence": [
-          "Detailed written account",
-          "Witness reported anxiety and sleep disturbance following encounter"
-        ],
-        "credibility": {
-          "rating": "low-medium",
-          "factors": [
-            "Detailed description",
-            "Follows established BEK pattern closely",
-            "Single witness",
-            "No physical evidence",
-            "Posted to internet forum (potential for fiction)"
-          ],
-          "notes": "Follows classic BEK encounter pattern. Could be genuine experience, sleep-related hallucination, or creative fiction."
-        },
-        "sources": [
-          "Reddit /r/Paranormal post (archived)",
-          "Various paranormal forums"
-        ],
-        "featured": false
-      }
-    ]
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "type": "none",
-        "description": "No physical evidence has been collected. BEK do not leave physical traces, footprints, or DNA evidence."
-      }
-    ],
-    "photographic": [
-      {
-        "type": "none",
-        "description": "No authenticated photographs exist. Some alleged photos circulate online but are demonstrably edited or from unrelated sources."
-      }
-    ],
-    "video": [
-      {
-        "type": "none",
-        "description": "No authenticated video footage exists. YouTube videos are recreations, fiction, or misattributed content."
-      }
-    ],
-    "audio": [
-      {
-        "type": "none",
-        "description": "No audio recordings of BEK encounters have been documented."
-      }
-    ],
-    "psychological": [
-      {
-        "id": "bek-psychological-dread",
-        "type": "consistent emotional response",
-        "description": "Overwhelming sense of dread and danger",
-        "status": "consistently reported",
-        "analysis": "Nearly all BEK encounter reports include descriptions of immediate, intense fear and conviction that allowing entry would result in harm or death. This consistency is notable."
-      },
-      {
-        "id": "bek-psychological-compulsion",
-        "type": "persuasive compulsion",
-        "description": "Some witnesses report feeling compelled to grant entry despite fear",
-        "status": "occasionally reported",
-        "analysis": "Some accounts describe feeling pulled or compelled to invite the children in, despite fear, suggesting possible hypnotic or persuasive influence."
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Demonic Entities",
-        "description": "BEK are demons or malevolent spirits that require invitation to enter (like vampire threshold mythology)",
-        "proponents": ["Various paranormal researchers"],
-        "evidence_cited": [
-          "Requirement for permission to enter",
-          "Sense of evil or wrongness",
-          "Apparent inability to force entry",
-          "Parallels with demonic possession lore requiring invitation"
-        ]
-      },
-      {
-        "name": "Alien-Human Hybrids",
-        "description": "BEK are hybrid beings created through alien experimentation, explaining black eyes and unsettling presence",
-        "proponents": ["David Weatherly", "UFO researchers"],
-        "evidence_cited": [
-          "Black eyes similar to some alien encounter descriptions",
-          "Uncanny valley effect",
-          "Reports of technological interference",
-          "Emotionless, scripted behavior"
-        ]
-      },
-      {
-        "name": "Vampiric Entities",
-        "description": "Modern manifestation of vampire mythology—entities that need invitation to enter and feed on life force or fear",
-        "proponents": ["Folklore researchers"],
-        "evidence_cited": [
-          "Threshold limitation (vampire invitation tradition)",
-          "Pale skin",
-          "Predatory behavior pattern",
-          "Night-time encounters"
-        ]
-      },
-      {
-        "name": "Interdimensional Beings",
-        "description": "Entities from parallel dimension or reality that occasionally intersect with our world",
-        "proponents": ["Paranormal theorists"],
-        "evidence_cited": [
-          "Sudden appearances and disappearances",
-          "Uncanny, 'not quite right' appearance",
-          "Lack of physical traces"
-        ]
-      }
-    ],
-    "scientific": [
-      {
-        "name": "Aniridia Misidentification",
-        "description": "Rare genetic condition causing absence of iris could be misidentified as completely black eyes",
-        "proponents": ["Medical skeptics"],
-        "evidence_cited": [
-          "Aniridia is real genetic condition",
-          "Could create appearance of all-black eyes in low light",
-          "Extremely rare, which could explain fear response to unfamiliar condition"
-        ],
-        "challenges": [
-          "Does not explain behavior patterns",
-          "Does not explain sudden disappearances",
-          "Does not explain psychological dread response",
-          "Aniridia typically shows some visible pupil structure"
-        ]
-      },
-      {
-        "name": "Sleep Paralysis / Hypnagogic Hallucination",
-        "description": "Doorstep encounters may be hypnagogic hallucinations or waking dreams",
-        "proponents": ["Sleep researchers", "Skeptics"],
-        "evidence_cited": [
-          "Many encounters occur late night/early morning",
-          "Feeling of paralysis or inability to close door in some accounts",
-          "Sense of dread is common in sleep paralysis",
-          "No physical evidence supports actual presence"
-        ],
-        "challenges": [
-          "Some encounters occur during full wakefulness",
-          "Multiple witnesses in some cases",
-          "Vehicle encounters don't fit sleep paralysis pattern"
-        ]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Internet Folklore / Creepypasta",
-        "description": "BEK are primarily internet-created fiction that has evolved into perceived reality through repetition and belief",
-        "proponents": ["Folklore scholars", "Internet culture researchers"],
-        "evidence_cited": [
-          "Timeline correlates with internet forum growth",
-          "Follows classic creepypasta structure",
-          "Rapid spread via social media",
-          "Many 'accounts' posted to fiction forums",
-          "No pre-internet historical precedent",
-          "Follows predictable narrative pattern"
-        ]
-      },
-      {
-        "name": "Urban Legend Evolution",
-        "description": "Modern urban legend emerging from cultural anxieties about children, strangers, and home invasion",
-        "proponents": ["Jan Harold Brunvand school folklorists"],
-        "evidence_cited": [
-          "Emerges during 1990s 'stranger danger' panic",
-          "Taps into fear of corrupted innocence",
-          "Home invasion anxiety",
-          "Follows friend-of-a-friend (FOAF) tale pattern"
-        ]
-      },
-      {
-        "name": "Confirmation Bias & Suggestion",
-        "description": "Once BEK stories are known, people interpret normal experiences (children with dark eyes in shadows, etc.) through BEK lens",
-        "proponents": ["Psychologists", "Skeptical investigators"],
-        "evidence_cited": [
-          "Increase in reports correlates with media coverage",
-          "Reports closely follow established pattern",
-          "Power of suggestion in low-light conditions",
-          "Expectation affects perception"
-        ]
-      },
-      {
-        "name": "Contact Lens Cosmetics",
-        "description": "Encounters with individuals wearing full-black contact lenses (scleral lenses) for fashion or pranks",
-        "proponents": ["Skeptics"],
-        "evidence_cited": [
-          "Full-black scleral contact lenses commercially available since 1990s",
-          "Popular in goth/alternative subcultures",
-          "Could be used for pranks",
-          "Would create exact visual effect described"
-        ],
-        "challenges": [
-          "Does not explain sudden disappearances",
-          "Does not explain psychological dread in all cases",
-          "Does not explain child age of entities",
-          "Scleral lenses expensive and not widely available to children"
-        ]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Vampire threshold mythology (invitation required)",
-        "Changeling folklore (fairies replacing children)",
-        "Demon summoning lore (invitation/permission)",
-        "Urban legends of corrupted children"
-      ],
-      "stories": [
-        "The original Brian Bethel account (foundational narrative)",
-        "Cannock Chase encounters (UK cluster)",
-        "Various doorstep encounter narratives"
-      ],
-      "beliefs": "BEK represent modern evolution of threshold guardian mythology and fears of corrupted innocence. The invitation requirement parallels vampire lore, suggesting cultural continuity in supernatural beliefs."
-    },
-    "internet_culture": {
-      "significance": "BEK are paradigmatic of internet-age folklore—born on forums, spread through creepypasta communities, evolved through participatory storytelling.",
-      "forums": [
-        "Ghost Village (original Bethel post)",
-        "Coast to Coast AM forums",
-        "Reddit /r/nosleep",
-        "Reddit /r/Paranormal",
-        "Creepypasta Wiki",
-        "4chan /x/ (paranormal board)"
-      ],
-      "evolution": "BEK exemplify how digital folklore evolves: original account (Bethel 1996) → forum discussion → creepypasta fictionalization → media coverage → further reports → cultural phenomenon. Boundary between 'genuine reports' and creative fiction becomes impossible to determine."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Weatherly, D. (2012). The Black Eyed Children",
-        "Redfern, N. (2015). The Black Diary (fiction inspired by phenomenon)",
-        "Countless creepypasta stories and online fiction"
-      ],
-      "film_tv": [
-        "Black Eyed Kids (2012) - Independent film",
-        "Black-Eyed Children: Let Me In (2015) - Documentary/horror",
-        "Numerous YouTube short films and documentaries",
-        "Featured on Monsters and Mysteries in America"
-      ],
-      "podcasts": [
-        "Astonishing Legends (multiple episodes)",
-        "Lore (Episode on BEK)",
-        "The Last Podcast on the Left",
-        "Jim Harold's Campfire"
-      ],
-      "other": [
-        "Viral social media content",
-        "Halloween costume trend",
-        "Online role-playing games",
-        "Subject of countless YouTube investigation videos"
-      ]
-    },
-    "psychological_cultural_context": {
-      "anxieties": [
-        "1990s 'stranger danger' moral panic",
-        "Fear of home invasion",
-        "Corrupted innocence trope",
-        "Children as vessels of evil (The Omen, Children of the Corn, etc.)",
-        "Loss of safe domestic space"
-      ],
-      "cultural_moment": "BEK emerge during transition to digital age, reflecting anxieties about permeable boundaries—between online/offline, known/unknown, safe home/dangerous outside, innocent child/threatening entity."
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "investigation": {
-    "researchers": [
-      {
-        "name": "David Weatherly",
-        "affiliation": "Independent paranormal researcher",
-        "contribution": "Published first major book on BEK phenomenon, collected numerous accounts",
-        "period": "2010-present"
-      },
-      {
-        "name": "Lee Brickley",
-        "affiliation": "UK paranormal researcher",
-        "contribution": "Documented Cannock Chase cluster of sightings",
-        "period": "2014-2016"
-      },
-      {
-        "name": "Brian Bethel",
-        "affiliation": "Journalist, original witness",
-        "contribution": "Original 1996 account that launched phenomenon",
-        "period": "1996-present"
-      }
-    ],
-    "methodologies": [
-      {
-        "method": "Witness interviews",
-        "description": "Collecting detailed accounts from those claiming encounters"
-      },
-      {
-        "method": "Pattern analysis",
-        "description": "Identifying common elements across reports"
-      },
-      {
-        "method": "Geographic clustering",
-        "description": "Mapping reports to identify hotspots"
-      },
-      {
-        "method": "Folklore comparison",
-        "description": "Comparing to traditional vampire, changeling, and demon lore"
-      }
-    ],
-    "challenges": [
-      "Complete lack of physical evidence",
-      "Inability to distinguish genuine reports from fiction",
-      "Internet proliferation makes contamination inevitable",
-      "No way to verify or replicate encounters",
-      "Witness reports heavily influenced by existing narratives"
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "protection_folklore": {
-    "traditional_methods": [
-      {
-        "method": "Do not invite them in",
-        "description": "Never grant permission to enter home or vehicle",
-        "effectiveness": "Foundational to phenomenon—all lore agrees entities require invitation",
-        "source": "Consistent across all accounts"
-      },
-      {
-        "method": "Trust instincts",
-        "description": "The feeling of dread is warning—do not ignore it",
-        "effectiveness": "Prevention through recognition",
-        "source": "Bethel and other witnesses emphasize importance of fear response"
-      },
-      {
-        "method": "Do not make eye contact",
-        "description": "Avoid looking directly at their eyes",
-        "effectiveness": "Uncertain—may prevent hypnotic influence",
-        "source": "Some encounter narratives suggest eye contact increases compulsion"
-      },
-      {
-        "method": "Religious symbols",
-        "description": "Crosses, holy water, prayer (if demonic theory is correct)",
-        "effectiveness": "Untested—no verified cases of use",
-        "source": "Paranormal protection folklore"
-      },
-      {
-        "method": "Salt barriers",
-        "description": "Traditional spirit protection",
-        "effectiveness": "Untested",
-        "source": "General folklore"
-      }
-    ],
-    "modern_advice": [
-      {
-        "advice": "Door security",
-        "description": "Use peephole or camera before opening door to strangers, especially children at odd hours"
-      },
-      {
-        "advice": "Trust intuition",
-        "description": "If something feels wrong, it probably is—trust the feeling of dread"
-      },
-      {
-        "advice": "Never admit strangers",
-        "description": "Do not open door or allow entry to unknown individuals, regardless of apparent age or demeanor"
-      }
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "bethel-1996",
-      "type": "primary account",
-      "title": "Original Black-Eyed Kids Account",
-      "authors": ["Brian Bethel"],
-      "publication": "Ghost Village Mailing List",
-      "date": "1996-1998",
-      "url": "https://www.ghostvillage.com/resources/2010/features/blackeyedkids_012110.shtml"
-    },
-    {
-      "id": "weatherly-2012",
-      "type": "book",
-      "title": "The Black Eyed Children",
-      "authors": ["David Weatherly"],
-      "publication": "Leprechaun Press",
-      "date": "2012",
-      "isbn": "978-0615631455"
-    },
-    {
-      "id": "brickley-2015",
-      "type": "book",
-      "title": "UFOs, Werewolves & The Pig-Man: Exposing England's Strangest Location - Cannock Chase",
-      "authors": ["Lee Brickley"],
-      "publication": "Sixth Element Publishing",
-      "date": "2015"
-    },
-    {
-      "id": "astonishing-legends",
-      "type": "podcast",
-      "title": "Black Eyed Kids",
-      "publication": "Astonishing Legends Podcast",
-      "date": "2016"
-    }
-  ]
+  "sources": []
 }
